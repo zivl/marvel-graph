@@ -1,22 +1,37 @@
 [
   {
     "name": "Dr. Strange",
+    "image": "dr_strange",
     "refs": ["Thor"]
   },
   {
     "name": "Iron Man",
+    "image": "ironman",
     "refs": ["S.H.I.E.L.D"]
   },
   {
     "name": "The Incredible Hulk",
+    "image": "incredible_hulk",
     "refs": ["Avengers"]
   },
   {
     "name": "Thor",
+    "image": "thor",
     "refs": ["S.H.I.E.L.D"]
   },
   {
     "name": "Iron Man 2",
+    "image": "ironman",
     "refs": ["Thor"]
+  },
+  {
+    "name": "S.H.I.E.L.D",
+    "image": "shield",
+    "refs": []
+  },
+  {
+    "name": "Avengers",
+    "image": "avengers",
+    "refs": []
   }
 ]
